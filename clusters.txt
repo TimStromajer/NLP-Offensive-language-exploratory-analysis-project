@@ -1,0 +1,24 @@
+Cluster 0: religion
+	['banislam', 'bansharia', 'islam', 'terrorism', 'stopislam', 'religion', 'muzzie', 'surrender', 'terrorism islam', 'islamist']
+
+
+Cluster 1: obscene, threat, insult, toxic, severe_toxic, identity_hate
+	['wikipedia', 'page', 'edit', 'article', 'vandalism', 'user', 'revert', 'motherfucker', 'fag', 'talk page']
+
+
+Cluster 2: homophobic, sexist, appearance-related
+	['dyke', 'fatass', 'camel toe', 'milf', 'skank', 'gt', 'gt gt', 'camel', 'toe', 'full gallery']
+
+
+Cluster 3: offensive, abusive, cyberbullying, racist
+	['hoes', 'this nigga', 'amp', 'riot', 'white trash', 'op', 'bad bitch', "y'all", 'runes', 'lil']
+
+
+Cluster 4: profane, hateful
+	['fucktrump', 'trumpisatraitor', 'shameonicc', 'borisjohnsonshouldnotbepm', 'doctorsfightback', 'icc', 'dhonikeepstheglove', 'amp', 'dickhead', 'douchebag']
+
+
+Cluster 5: intellectual, political
+	['twatwaffle', 'dumb fuck', 'fucktard', 'fuckbag', 'asshat', 'shithead', 'amp', 'dickwad', 'assbag', 'fuckhead']
+
+
